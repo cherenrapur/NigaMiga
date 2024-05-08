@@ -1,0 +1,10 @@
+# ninja log v5
+2	127	1712434475849266039	CMakeFiles/nigamiga.dir/meta_cmd.c.o	40b9f72c22b1735f
+1	29	1712434521741888951	CMakeFiles/nigamiga.dir/main.c.o	4f8f9266a97a3b5a
+29	63	1712434521776111353	nigamiga	25ba5bb52f35fa5
+3	46	1712433422195556782	CMakeFiles/nigamiga.dir/statement.c.o	a70f52578f0f124a
+1	147	1712432043324731427	CMakeFiles/nigamiga.dir/hashtable.c.o	6c854a92321c45a3
+1	133	1712432043310505634	CMakeFiles/nigamiga.dir/cmdLine_Buffer.c.o	28994ccd1f9f2e3a
+0	50	1713213562710898189	build.ninja	7ccf8a814bf7764a
+2	126	1712434475849258747	CMakeFiles/nigamiga.dir/cmdLine/cmdLine_Buffer.c.o	f43539b2fbca4b18
+2	137	1712434475860156349	CMakeFiles/nigamiga.dir/hashtable/hashtable.c.o	63facd0d7e85c0e6
